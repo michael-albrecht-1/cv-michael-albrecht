@@ -43,10 +43,10 @@ const Navigation = () => {
             <div className="socialNetwork">
                 <ul>
                     <li>
-                        <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/micha%C3%ABl-albrecht-124189147/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
                     </li>
                     <li>
-                        <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+                        <a href="https://github.com/michael-albrecht-1/" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
                     </li>
                 </ul>
                 <div className="signature">

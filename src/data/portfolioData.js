@@ -1,4 +1,4 @@
-export const portfolioData = [
+const portfolioData = [
   {
     id: 1,
     name: 'ipsum.com',
@@ -54,3 +54,5 @@ export const portfolioData = [
     picture: './media/project6.JPG'
   },
 ]
+
+export default portfolioData;
